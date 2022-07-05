@@ -393,7 +393,6 @@ img.parag {
   }
 
   .add_margin {
-    /*margin-top: 20px;*/
     height: 40vh;
     display: flex;
     align-items: center;
@@ -407,10 +406,6 @@ img.parag {
   }
 
   .halfsies {
-    /*
-	display: flex;
-	flex-direction: column-reverse;
-	align-items: center;*/
     margin: 10px auto;
   }
 
@@ -682,7 +677,6 @@ img.parag {
   }
 
   .add_margin {
-    /*margin-top: 20px;*/
     height: 40vh;
     display: flex;
     align-items: center;
@@ -696,10 +690,6 @@ img.parag {
   }
 
   .halfsies {
-    /*
-	display: flex;
-	flex-direction: column-reverse;
-	align-items: center;*/
     margin: 10px auto;
   }
 
